@@ -4,7 +4,7 @@ Hello 👋, I'm **Mohamed** You can Call Me SmoothPot
 -im A `Fortnite/Pubg/Minecraft` **Player**
 -📫 **Contact**:
 -~~Only Discord~~ ! `SmoothPot#7804`
-
+**Official Thunder Co-Founder** [Thunder Server Link](https://discord.gg/k6SkE2ScZG)
 <!---
 M0hameeed/M0hameeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
