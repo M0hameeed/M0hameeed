@@ -1,10 +1,10 @@
 Hello 👋, I'm **Mohamed** You can Call Me SmoothPot
 
--🌱**About Me**:
+`-`🌱**About Me**:
 
--Im A `JS/Java/Html/CSS` **Developer**
+`-`Im A `JS/Java/Html/CSS` **Developer**
 
--📫 **Contact**:
+`-`📫 **Contact**:
 
 -~~Only Discord~~ ! `SmoothPot#7804`
 
