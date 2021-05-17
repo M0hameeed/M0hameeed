@@ -6,7 +6,7 @@ Hello 👋, I'm **Mohamed** You can Call Me SmoothPot
 
 `-`📫 **Contact**:
 
--~~Only Discord~~ ! `SmoothPot#7804`
+`-`~~Only Discord~~ ! `SmoothPot#7804`
 
 **Official Thunder Co-Founder** [Thunder Server Link](https://discord.gg/NhWE3ZFwHm)
 
