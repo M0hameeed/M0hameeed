@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 [![SmoothPot's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0hameeed&show_icons=true&count_private=true&icon_color=0000fd&title_color=ff0000)](https://Thunder)
 
 ## Active Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hgfdfgddfgeed&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hameeed&layout=compact)
